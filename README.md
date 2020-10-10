@@ -4,6 +4,7 @@
 
 #### Requerments
 python >= 3.6.0
+
 pip >= 19.0.0
 
 ### Step 0: 
