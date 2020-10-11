@@ -3,7 +3,7 @@
 ### 5 term
 
 ## List of content
-* lab-1.ipynb - Systemы of Linear Equations
+* lab-1.ipynb - Gaussian scheme for System of Linear Equations; LU decomposition
 
 ## Requerments
 python >= 3.6.0
