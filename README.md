@@ -2,10 +2,15 @@
 ### Applied mathematics and Computer Science
 ### 5 term
 
-#### Requerments
+## List of content
+* lab-1.ipynb - Systemы of Linear Equations
+
+## Requerments
 python >= 3.6.0
 
 pip >= 19.0.0
+
+## Quickstart guide
 
 ### Step 0: 
 Install following packages
