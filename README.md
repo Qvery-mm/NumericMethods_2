@@ -5,6 +5,8 @@
 ## List of content
 * lab-1.ipynb - Gaussian scheme for System of Linear Equations; LU decomposition
 
+* lab-2.ipynb - Iterative methods (simple iterations, Seidel, upper relaxation)
+
 ## Requerments
 python >= 3.6.0
 
