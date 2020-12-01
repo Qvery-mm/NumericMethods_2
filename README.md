@@ -37,4 +37,4 @@ Open ``` localhost:8888 ``` in your browser.
 ### Step 3:
 Enjoy!
 
-## Or just open any notebook in colab.
+## ... or just open any notebook in colab.
