@@ -3,9 +3,13 @@
 ### 5 term
 
 ## List of content
-* lab-1.ipynb - Gaussian scheme for System of Linear Equations; LU decomposition
+* lab_1.ipynb - Gaussian scheme for System of Linear Equations; LU decomposition
 
-* lab-2.ipynb - Iterative methods (simple iterations, Seidel, upper relaxation)
+* lab_2.ipynb - Iterative methods (simple iterations, Seidel, upper relaxation)
+
+* lab_3.ipynb - Complete eigenvalue problem. Jacobi method. Partial eigenvalue problem.
+
+* lab_4.ipynb - Cauchy problem for the first order ordinary differential equation.
 
 ## Requerments
 python >= 3.6.0
