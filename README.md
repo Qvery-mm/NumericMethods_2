@@ -11,7 +11,7 @@
 
 * lab_4.ipynb - Cauchy problem for the first order ordinary differential equation.
 
-## Requerments
+## Requirements
 python >= 3.6.0
 
 pip >= 19.0.0
