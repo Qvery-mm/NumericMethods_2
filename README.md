@@ -22,7 +22,7 @@ pip >= 19.0.0
 Install following packages
 
 ```
-pip install jupyter numpy
+pip install jupyter numpy pandas PIL
 ```
 
 ### Step 1: 
