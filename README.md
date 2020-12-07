@@ -11,6 +11,8 @@
 
 * lab_4.ipynb - Cauchy problem for the first order ordinary differential equation.
 
+* lab_5.ipynb - Rigid systems
+
 ## Requirements
 python >= 3.6.0
 
