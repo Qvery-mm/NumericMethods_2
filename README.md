@@ -13,6 +13,8 @@
 
 * lab_5.ipynb - Rigid systems
 
+* lab_6.ipynb - Grid method for solving a boundary value problem (difference sweep method)
+
 ## Requirements
 python >= 3.6.0
 
